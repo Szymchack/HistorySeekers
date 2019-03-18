@@ -9,7 +9,7 @@ using HistorySeekers.BusinessLayer;
 
 namespace HistorySeekers
 {
-    
+   
     public partial class App : Application
     {
         private void Application_Startup(object sender, StartupEventArgs e)
